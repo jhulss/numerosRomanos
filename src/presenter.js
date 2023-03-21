@@ -1,4 +1,4 @@
-import sumar from "./sumador";
+import numRomanos from "./romanos";
 
 const first = document.querySelector("#primer-numero");
 const second = document.querySelector("#segundo-numero");
